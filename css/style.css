@@ -89,6 +89,22 @@ h2.sub-title {
   background: url(../img/preview-9.png) 0 0 no-repeat;
 }
 
+.preview.item10 {
+  background: url(../img/preview-10.png) 0 0 no-repeat;
+}
+
+.preview.item11 {
+  background: url(../img/preview-11.png) 0 0 no-repeat;
+}
+
+.preview.item12 {
+  background: url(../img/preview-12.png) 0 0 no-repeat;
+}
+
+.preview.item13 {
+  background: url(../img/preview-13.png) 0 0 no-repeat;
+}
+
 .section {
   background: #f7f7f7;
   border-bottom: 1px solid rgba(0,0,0,0.1);
@@ -99,6 +115,6 @@ h2.sub-title {
   color: #353535;
   font-size: 1.5em;
   font-weight: bold;
-  padding: 20px 0;
+  padding: 40px 0 20px;
   text-align: center;
 }
